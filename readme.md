@@ -1,7 +1,5 @@
 # FIFA 19 Exploration
 
-## by Ahmad Sherief
-
 ## Dataset
 
 This [dataset](https://www.kaggle.com/karangadiya/fifa19) contains detailed attributes for every player registered in the latest edition of FIFA 19 database.
